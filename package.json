@@ -1,0 +1,19 @@
+{
+  "name": "range-step",
+  "version": "1.0.2",
+  "description": "Inclusively step thru a range of numbers and return them as an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkuhar/range-step.git"
+  },
+  "author": "Alex Kukharets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alkuhar/range-step/issues"
+  },
+  "homepage": "https://github.com/alkuhar/range-step#readme"
+}
